@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-!(screenshots/Events.png)
+![Vue project](screenshots/Events.png)
 ## Build Setup
 
 ``` bash
